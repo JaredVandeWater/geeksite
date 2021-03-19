@@ -1,6 +1,22 @@
 /* * {
     outline: 1px solid red;
 }  */
+
+.dark-grey-color{
+    background-color:#222222 ;
+}
+
+.bg-info{
+    background-color: #a962d5 !important;
+}
+
+.bg-danger{
+    background-color: #ff2932 !important;
+}
+
+.bg-light{
+    background-color: #e9eff3 !important;
+}
 .move-bottom{
     bottom: 2rem;
     left: 2rem;
