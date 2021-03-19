@@ -2,6 +2,10 @@
     outline: 1px solid red;
 }  */
 
+.container-fluid{
+    padding: 0 !important;
+}
+
 .dark-grey-color{
     background-color:#222222 ;
 }
@@ -31,6 +35,8 @@
 
 }
 
-.extended-bg{
+
+min-sz{
     min-height: 10rem;
+    min-width: 10rem;
 }
